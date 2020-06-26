@@ -1,3 +1,3 @@
 # CMS-Shopping-Cart
 
-Project link- http://mycmscart.herokuapp.com/
+Project link- http://mycmsshop.herokuapp.com/
