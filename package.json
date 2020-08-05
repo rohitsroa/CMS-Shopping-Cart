@@ -20,7 +20,7 @@
     "datetime": "0.0.3",
     "ejs": "^2.5.7",
     "express": "^4.17.1",
-    "express-fileupload": "^0.1.4",
+    "express-fileupload": "^1.1.9",
     "express-messages": "^1.0.1",
     "express-myconnection": "^1.0.4",
     "express-session": "^1.17.1",
