@@ -34,7 +34,7 @@
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "paytm": "0.0.2",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "request": "^2.88.0",
     "resize-img": "^1.1.2"
   }
