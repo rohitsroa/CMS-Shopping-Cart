@@ -16,7 +16,7 @@
     "connect-flash": "^0.1.1",
     "consolidate": "^0.15.1",
     "cors": "^2.8.4",
-    "cron": "^1.1.0",
+    "cron": "^1.8.2",
     "datetime": "0.0.3",
     "ejs": "^2.5.7",
     "express": "^4.17.1",
